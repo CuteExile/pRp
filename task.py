@@ -89,3 +89,4 @@ if __name__ == '__main__':
 
     diagnoses = Diagnoses('Депрессия', 'Высокая температура', '1 месяц', 'Меньше загоняться')
     diagnoses.info()
+    print ('hello, world')
