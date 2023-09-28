@@ -73,6 +73,7 @@ class Diagnoses:
 
 
 if __name__ == '__main__':
+    print('hello')
 
     doctor = Doctor('Зайцев', 'Кирилл', #'Олегович', 'Медбрат', '3 года', '-', 'Контрреволюционеров 5', '64')
     doctor.info()
