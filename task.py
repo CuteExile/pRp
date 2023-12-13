@@ -4,7 +4,8 @@ class Doctor:
     def __init__(self, surname, name, patronymic, job_tittle, work_experience, rank, address, number):
         self.surname=surname
         self.name = name
-         self.job_tittle =job_tittle
+        self.job_tittle = job_tittle
+        self.work_experience = work_experience
         self.rank = rank
         self.address = address
         self.number = number
